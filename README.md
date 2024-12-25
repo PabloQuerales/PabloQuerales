@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Pablo Querales
 
 🎯 **Desarrollador web en formación** | 🚀 Apasionado por la tecnología y el aprendizaje continuo
 
@@ -10,7 +10,7 @@
 - 🌟 Experiencia intermedia en **JavaScript** (7/10) y manejo de **React**.  
 - 🎨 Creativo, motivado y enfocado en encontrar mi primer rol en desarrollo web.  
 
-> "Sé que el éxito está a la vuelta de la esquina. Solo necesito una oportunidad para demostrar todo lo que puedo lograr."
+> "Sé que el éxito está a la vuelta de la esquina. Solo busco una oportunidad para demostrar todo lo que puedo lograr."
 
 ---
 
@@ -35,5 +35,5 @@
 ---
 
 ### 🤝 Contacto  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/tuperfil)  
-[![Portafolio](https://img.shields.io/badge/-Portafolio-FF5722?logo=web&logoColor=white&style=flat-square)](#)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)]([https://linkedin.com/in/tuperfil](https://www.linkedin.com/in/pablo-querales-padilla-ab4950139/))  
+[![Portafolio](https://img.shields.io/badge/-Portafolio-FF5722?logo=web&logoColor=white&style=flat-square)](https://pabloquerales.github.io/Portafolio/)  
