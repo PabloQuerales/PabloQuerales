@@ -35,5 +35,5 @@
 ---
 
 ### 🤝 Contacto  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)]([https://linkedin.com/in/tuperfil](https://www.linkedin.com/in/pablo-querales-padilla-ab4950139/))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)]((https://www.linkedin.com/in/pablo-querales-padilla-ab4950139/))  
 [![Portafolio](https://img.shields.io/badge/-Portafolio-FF5722?logo=web&logoColor=white&style=flat-square)](https://pabloquerales.github.io/Portafolio/)  
