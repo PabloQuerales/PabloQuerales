@@ -29,8 +29,8 @@
 ---
 
 ### 📈 Estadísticas  
-![Tu Nombre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical)
+![PabloQuerales's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PabloQuerales&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloQuerales&layout=compact&theme=radical)
 
 ---
 
