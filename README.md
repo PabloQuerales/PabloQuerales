@@ -19,12 +19,15 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)  
 
 ---
 
 ### 📂 Proyectos  
-- **[Juego de Cartas](#):** Un juego interactivo hecho con JavaScript, HTML y CSS.  
-- **[Nombre del Proyecto 2](#):** Breve descripción del proyecto.  
+- **[Juego de Cartas](https://github.com/PabloQuerales/JuegoDeCartas):** Un juego interactivo hecho con JavaScript, HTML y CSS.  
+- **[PokeAPI App](https://github.com/PabloQuerales/PokeAPI):** Aplicación web construida con React y Bootstrap que consume la PokeAPI para mostrar información detallada sobre Pokémon.  
+- **[To-Do List con Fetch y React](https://github.com/PabloQuerales/To-Do-List-con-Fecth-y-React):** Lista de tareas interactiva que utiliza métodos GET, POST y DELETE para interactuar con una base de datos.  
+- **[Snake Game](https://github.com/PabloQuerales/Snake-Game):** Una versión clásica del juego Snake, optimizada para dispositivos móviles, desarrollada con React.  
 
 ---
 
@@ -35,5 +38,5 @@
 ---
 
 ### 🤝 Contacto  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)]((https://www.linkedin.com/in/pablo-querales-padilla-ab4950139/))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/pablo-querales-padilla-ab4950139/)  
 [![Portafolio](https://img.shields.io/badge/-Portafolio-FF5722?logo=web&logoColor=white&style=flat-square)](https://pabloquerales.github.io/Portafolio/)  
