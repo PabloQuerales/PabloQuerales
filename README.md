@@ -1,42 +1,65 @@
-# 👋 ¡Hola! Soy Pablo Querales
+# ¡Hola! Soy Pablo Querales 👋  
 
-🎯 **Desarrollador web en formación** | 🚀 Apasionado por la tecnología y el aprendizaje continuo
-
----
-
-### Sobre mí  
-- 🌱 Actualmente estudiando en [4Geeks Academy](https://4geeksacademy.com/) como Fullstack Developer.  
-- 💻 Dominio sólido en **HTML** y **CSS**.  
-- 🌟 Experiencia intermedia en **JavaScript** (7/10) y manejo de **React**.  
-- 🎨 Creativo, motivado y enfocado en encontrar mi primer rol en desarrollo web.  
-
-> "Sé que el éxito está a la vuelta de la esquina. Solo busco una oportunidad para demostrar todo lo que puedo lograr."
+**Desarrollador Web Full Stack en formación** | Apasionado por la tecnología y la resolución de problemas  
 
 ---
 
-### 🚀 Tech Stack  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)  
+## 🚀 Sobre mí  
+
+- 🎓 Actualmente cursando el bootcamp de **Full Stack Developer** en [4Geeks Academy](https://4geeksacademy.com).  
+- 💻 Habilidades en **HTML, CSS, JavaScript y React**.  
+- 🔥 Experiencia en consumo de **APIs REST** y manejo de **CRUD** con React y useContext.  
+- 🛠️ Conocimientos en **SQLAlchemy y Python** para la gestión de bases de datos.  
+- 🎯 Buscando mi primer trabajo como desarrollador para aplicar y seguir aprendiendo.  
+
+> "La tecnología me permite combinar creatividad con lógica para construir soluciones innovadoras."  
 
 ---
 
-### 📂 Proyectos  
-- **[Juego de Cartas](https://github.com/PabloQuerales/JuegoDeCartas):** Un juego interactivo hecho con JavaScript, HTML y CSS.  
-- **[PokeAPI App](https://github.com/PabloQuerales/PokeAPI):** Aplicación web construida con React y Bootstrap que consume la PokeAPI para mostrar información detallada sobre Pokémon.  
-- **[To-Do List con Fetch y React](https://github.com/PabloQuerales/To-Do-List-con-Fecth-y-React):** Lista de tareas interactiva que utiliza métodos GET, POST y DELETE para interactuar con una base de datos.  
-- **[Snake Game](https://github.com/PabloQuerales/Snake-Game):** Una versión clásica del juego Snake, optimizada para dispositivos móviles, desarrollada con React.  
+## 🏗️ Proyectos Destacados  
+
+### 🎬 **[Post Cine](https://github.com/PabloQuerales/buscador-de-pel-culas-con-react)**  
+Aplicación para buscar películas y generar pósters aleatorios. Incluye validaciones, alertas y mejoras en la experiencia del usuario.  
+🔗 **Repositorio:** [GitHub](https://github.com/PabloQuerales/buscador-de-pel-culas-con-react)  
+
+### 📇 **[Agenda de Contactos](https://github.com/PabloQuerales/)**  
+Aplicación que gestiona una agenda de contactos con CRUD completo, usando **React, React Router y useContext**.  
+🔗 **Repositorio:** (Asegúrate de agregar el link correcto aquí)  
+
+### 🎮 **[Tic Tac Toe con React](https://github.com/PabloQuerales/)**  
+Juego interactivo de Tic Tac Toe creado en **React**, aplicando **estado y lógica de juego**.  
+🔗 **Repositorio:** (Asegúrate de agregar el link correcto aquí)  
 
 ---
 
-### 📈 Estadísticas  
-![PabloQuerales's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PabloQuerales&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloQuerales&layout=compact&theme=radical)
+## 📊 Estadísticas de GitHub  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PabloQuerales&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PabloQuerales&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloQuerales&layout=compact&theme=radical" />
+</p>
 
 ---
 
-### 🤝 Contacto  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/pablo-querales-padilla-ab4950139/)  
-[![Portafolio](https://img.shields.io/badge/-Portafolio-FF5722?logo=web&logoColor=white&style=flat-square)](https://pabloquerales.github.io/Portafolio/)  
+## 📚 Tecnologías y herramientas  
+
+- **Frontend:** HTML, CSS, JavaScript, React, React Router  
+- **Backend:** Python, SQLAlchemy, APIs REST  
+- **Base de Datos:** PostgreSQL  
+- **Herramientas:** Git, GitHub, Postman  
+
+---
+
+## 📞 Conéctate conmigo  
+
+- 💼 **LinkedIn:** [linkedin.com/in/pabloquerales](https://www.linkedin.com/in/pabloquerales)  
+- 👨‍💻 **GitHub:** [github.com/PabloQuerales](https://github.com/PabloQuerales)  
+
+---
+
+¡Gracias por visitar mi perfil! Estoy entusiasmado por seguir creciendo en el mundo del desarrollo web. 🚀  
+
