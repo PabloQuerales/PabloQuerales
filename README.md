@@ -6,11 +6,10 @@
 
 ## 🚀 Sobre mí  
 
-- 🎓 Graduado del bootcamp de **Full Stack Developer** en [4Geeks Academy](https://4geeksacademy.com).  
-- 💻 Habilidades en **HTML, CSS, JavaScript y React**.  
-- 🔥 Experiencia en consumo de **APIs REST** y manejo de **CRUD** con React y useContext.  
-- 🛠️ Conocimientos en **SQLAlchemy y Python** para la gestión de bases de datos.  
-- 🎯 Buscando mi primer trabajo como desarrollador para aplicar y seguir aprendiendo.  
+- 🎓 Recientemente me gradué como Full Stack Developer en 4Geeks Academy.
+- 💻 Especializado en **React.js, JavaScript, Python y SQLAlchemy.**
+- 💡 Siempre aprendiendo y explorando nuevas tecnologías para mejorar mis habilidades.
+- 💼 En búsqueda de oportunidades para aplicar mis conocimientos y seguir creciendo en el mundo del desarrollo web.  
 
 > "La tecnología me permite combinar creatividad con lógica para construir soluciones innovadoras."  
 
