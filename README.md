@@ -1,65 +1,67 @@
-# ¡Hola! Soy Pablo Querales 👋  
+¡Hola! Soy Pablo Querales 👋
 
-**Desarrollador Web Full Stack en formación** | Apasionado por la tecnología y la resolución de problemas  
+Desarrollador Web Full Stack
 
----
+Construyendo soluciones innovadoras con creatividad y lógica.
 
-## 🚀 Sobre mí  
+🚀 Sobre mí
 
-- 🎓 Actualmente cursando el bootcamp de **Full Stack Developer** en [4Geeks Academy](https://4geeksacademy.com).  
-- 💻 Habilidades en **HTML, CSS, JavaScript y React**.  
-- 🔥 Experiencia en consumo de **APIs REST** y manejo de **CRUD** con React y useContext.  
-- 🛠️ Conocimientos en **SQLAlchemy y Python** para la gestión de bases de datos.  
-- 🎯 Buscando mi primer trabajo como desarrollador para aplicar y seguir aprendiendo.  
+🎓 Recientemente me gradué como Full Stack Developer en 4Geeks Academy.
 
-> "La tecnología me permite combinar creatividad con lógica para construir soluciones innovadoras."  
+💻 Especializado en React.js, JavaScript, Python y SQLAlchemy.
 
----
+✨ Apasionado por el desarrollo web, el diseño de interfaces y la optimización de experiencias de usuario.
 
-## 🏗️ Proyectos Destacados  
+💡 Siempre aprendiendo y explorando nuevas tecnologías para mejorar mis habilidades.
 
-### 🎬 **[Post Cine](https://github.com/PabloQuerales/buscador-de-pel-culas-con-react)**  
-Aplicación para buscar películas y generar pósters aleatorios. Incluye validaciones, alertas y mejoras en la experiencia del usuario.  
-🔗 **Repositorio:** [GitHub](https://github.com/PabloQuerales/buscador-de-pel-culas-con-react)  
+💼 En búsqueda de oportunidades para aplicar mis conocimientos y seguir creciendo en el mundo del desarrollo web.
 
-### 📇 **[Agenda de Contactos](https://github.com/PabloQuerales/)**  
-Aplicación que gestiona una agenda de contactos con CRUD completo, usando **React, React Router y useContext**.  
-🔗 **Repositorio:** (Asegúrate de agregar el link correcto aquí)  
+"El código es una herramienta poderosa para crear soluciones que impacten a las personas."
 
-### 🎮 **[Tic Tac Toe con React](https://github.com/PabloQuerales/)**  
-Juego interactivo de Tic Tac Toe creado en **React**, aplicando **estado y lógica de juego**.  
-🔗 **Repositorio:** (Asegúrate de agregar el link correcto aquí)  
+🏢 Proyectos Destacados
 
----
+🎥 OPTIMA - Gestión Financiera
 
-## 📊 Estadísticas de GitHub  
+Aplicación responsiva para el manejo eficiente de finanzas personales, con autenticación JWT, APIs y base de datos.
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PabloQuerales&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PabloQuerales&theme=radical" />
-</p>
+✨ Tecnologías: React.js, Python (Flask), PostgreSQL, JWT🔗 Repositorio: GitHub
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloQuerales&layout=compact&theme=radical" />
-</p>
+🎬 Post Cine
 
----
+Buscador de películas con generación de pósters aleatorios y validaciones avanzadas.
 
-## 📚 Tecnologías y herramientas  
+✨ Tecnologías: React.js, API REST, CSS🔗 Repositorio: GitHub
 
-- **Frontend:** HTML, CSS, JavaScript, React, React Router  
-- **Backend:** Python, SQLAlchemy, APIs REST  
-- **Base de Datos:** PostgreSQL  
-- **Herramientas:** Git, GitHub, Postman  
+📞 Agenda de Contactos
 
----
+Aplicación CRUD completa con React, React Router y useContext para gestionar contactos.
 
-## 📞 Conéctate conmigo  
+✨ Tecnologías: React.js, API REST, Bootstrap🔗 Repositorio: GitHub
 
-- 💼 **LinkedIn:** [linkedin.com/in/pabloquerales](https://www.linkedin.com/in/pabloquerales)  
-- 👨‍💻 **GitHub:** [github.com/PabloQuerales](https://github.com/PabloQuerales)  
+⚖️ Tic Tac Toe con React
 
----
+Juego interactivo de Tic Tac Toe con gestión de estado y lógica de juego optimizada.
 
-¡Gracias por visitar mi perfil! Estoy entusiasmado por seguir creciendo en el mundo del desarrollo web. 🚀  
+✨ Tecnologías: React.js, CSS🔗 Repositorio: GitHub
 
+📈 Tecnologías y Herramientas
+
+Frontend: React.js, HTML, CSS, JavaScript, Bootstrap
+
+Backend: Python (Flask), Node.js
+
+Base de Datos: PostgreSQL, SQLAlchemy
+
+Herramientas: Git, GitHub, Postman, JWT, Docker
+
+📚 Certificaciones
+
+🌟 Full Stack Developer - 4Geeks Academy
+
+📱 Conéctate conmigo
+
+💼 LinkedIn: linkedin.com/in/pabloquerales
+
+💻 GitHub: github.com/PabloQuerales
+
+🚀 Siempre buscando nuevos desafíos y oportunidades para crecer en el mundo del desarrollo web. 🌟
