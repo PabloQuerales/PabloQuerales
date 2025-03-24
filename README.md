@@ -1,6 +1,6 @@
-# ¡Hola! Soy Pablo Querales 👋  
-
-**Desarrollador Web Full Stack** | Apasionado por la tecnología y la resolución de problemas  
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1200&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=120&lines=Soy+Pablo+Querales;Desarrollador+Web+Full+Stack;Apasionado+por+la+tecnología+y+la+resolución+de+problemas" alt="Typing SVG" />
+</div>
 
 ---
 
