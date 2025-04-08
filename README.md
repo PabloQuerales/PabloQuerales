@@ -58,7 +58,7 @@ mentalidad: "Siempre aprendiendo y explorando nuevas tecnologías."
 Si te interesa la tecnología, el desarrollo web o simplemente intercambiar ideas, aquí me puedes encontrar:
 
 📧 **Email:** [pabloquerales20@gmail.com](mailto:pabloquerales20@gmail.com)  
-🏢 **LinkedIn:** [linkedin.com/in/pabloquerales](https://www.linkedin.com/in/pabloquerales)  
+🏢 **LinkedIn:** [linkedin.com/in/pabloquerales](https://www.linkedin.com/in/pablo-querales)  
 👨‍💻 **GitHub:** [github.com/PabloQuerales](https://github.com/PabloQuerales)
 
 💡 Siempre abierto a conversaciones sobre tecnología y desarrollo de software.
