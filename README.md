@@ -19,16 +19,17 @@ mentalidad: "Siempre aprendiendo y explorando nuevas tecnologías."
 
 ## 🎯 Proyectos Destacados
 
-🌟 **[OPTIMA](https://github.com/PabloQuerales/optima-app)**  
+🌟 **[OPTIMA](https://github.com/PabloQuerales/OPTIMA)**  
 📌 Plataforma para la gestión financiera, ayudando a optimizar gastos con un diseño intuitivo.
+
+ 🛠️**[Control de Inventario](https://github.com/PabloQuerales/inventario-almacen-front-back)**  
+📌 Aplicación para gestionar el inventario de alimentos del hogar de forma sencilla y eficiente.
 
 🎥 **[Post Cine](https://github.com/PabloQuerales/buscador-de-pel-culas-con-react)**  
 📌 Buscador de películas con generación de pósters aleatorios y una experiencia interactiva.
 
-📞 **[Agenda de Contactos](https://github.com/PabloQuerales/agenda-de-contactos)**  
-📌 Gestión de contactos con **CRUD completo**, usando **React, React Router y useContext**.
 
-🎮 **[Tic Tac Toe con React](https://github.com/PabloQuerales/tic-tac-toe-react)**  
+🎮 **[Tic Tac Toe con React](https://github.com/PabloQuerales/TicTacToe-with-React)**  
 📌 Juego clásico implementado con **estado y lógica de juego en React**.
 
 ---
