@@ -22,7 +22,7 @@ mentalidad: "Siempre aprendiendo y explorando nuevas tecnologías."
 🌟 **[OPTIMA](https://github.com/PabloQuerales/OPTIMA)**  
 📌 Plataforma para la gestión financiera, ayudando a optimizar gastos con un diseño intuitivo.
 
- 🛠️**[Control de Inventario](https://github.com/PabloQuerales/inventario-almacen-front-back)**  
+🛠️ **[Control de Inventario](https://github.com/PabloQuerales/inventario-almacen-front-back)**  
 📌 Aplicación para gestionar el inventario de alimentos del hogar de forma sencilla y eficiente.
 
 🎥 **[Post Cine](https://github.com/PabloQuerales/buscador-de-pel-culas-con-react)**  
