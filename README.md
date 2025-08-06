@@ -11,9 +11,6 @@ nombre: "Pablo Querales"
 rol: "Desarrollador Full Stack"
 especialidad: ["JavaScript", "React", "Python", "SQLAlchemy", "Flask", "Postgres", "Tailwind"]
 ```
-
-> "El código es el arte de convertir ideas en realidad."
-
 ---
 
 ## 🎯 Proyectos Destacados
