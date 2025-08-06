@@ -49,7 +49,7 @@ mentalidad: "Siempre aprendiendo y explorando nuevas tecnologías."
 ## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,postgresql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,python,flask,postgresql,git,github,vscode" />
 </div>
 
 ---
