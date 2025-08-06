@@ -9,8 +9,7 @@
 ```yaml
 nombre: "Pablo Querales"
 rol: "Desarrollador Full Stack"
-especialidad: ["JavaScript", "React", "Python", "SQLAlchemy", "Flask", "Postgres"]
-mentalidad: "Siempre aprendiendo y explorando nuevas tecnologías."
+especialidad: ["JavaScript", "React", "Python", "SQLAlchemy", "Flask", "Postgres", "Tailwind"]
 ```
 
 > "El código es el arte de convertir ideas en realidad."
