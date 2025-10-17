@@ -14,6 +14,8 @@ especialidad: ["JavaScript", "React", "Python", "SQLAlchemy", "Flask", "Postgres
 ---
 
 ## 🎯 Proyectos Destacados
+💻 **[TeachLog](https://github.com/PabloQuerales/TeachLog)**  
+📌 Aplicación de gestión para profesores remotos.
 
 🌟 **[OPTIMA](https://github.com/PabloQuerales/OPTIMA)**  
 📌 Plataforma para la gestión financiera, ayudando a optimizar gastos con un diseño intuitivo.
