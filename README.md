@@ -47,7 +47,7 @@ especialidad: ["JavaScript", "TypeScript", "React", "Python", "SQLAlchemy", "Fla
 ## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,python,flask,django,postgresql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,python,flask,django,postgresql,git,github,vscode" />
 </div>
 
 ---
