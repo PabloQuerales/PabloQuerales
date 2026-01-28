@@ -9,7 +9,7 @@
 ```yaml
 nombre: "Pablo Querales"
 rol: "Desarrollador Full Stack"
-especialidad: ["JavaScript", "React", "Python", "SQLAlchemy", "Flask", "Postgres", "Tailwind"]
+especialidad: ["JavaScript", "TypeScript", "React", "Python", "SQLAlchemy", "Flask", "Postgres", "Tailwind"]
 ```
 ---
 
